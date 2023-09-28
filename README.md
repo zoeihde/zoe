@@ -4,7 +4,7 @@ This is a template for a CS1030 web page project.
    * Copy this repository via "Use this template" or Fork this repository
 1. Enable GitHub Pages via the _Settings > Pages_ menu
    * Choose Source: **Deploy from a branch**
-   * Choose Branch: **main**
+
    * **Save** _without_ choosing a Theme
    * It may take a little while for GitHub to notice, build, and publish your website 
    * Note the URL of the published website (e.g., https:&ThinSpace;//metrocs.github.io/_repositoryname_)
